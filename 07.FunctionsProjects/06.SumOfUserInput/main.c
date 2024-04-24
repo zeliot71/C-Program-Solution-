@@ -24,7 +24,5 @@ int main()
     // Display the sum calculated inside the function
     printf("Sum In Function: %d\n", sum);
 
-    // Display the sum calculated in the main function
-    printf("Sum In Main: %d\n", sum);
     return 0;
 }
