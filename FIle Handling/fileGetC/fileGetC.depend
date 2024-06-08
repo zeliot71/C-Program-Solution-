@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714651243 source:d:\aa. uiu cse\c-program-solution-\file handling\filegetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

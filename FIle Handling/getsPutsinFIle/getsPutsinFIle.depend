@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714648259 source:d:\aa. uiu cse\c-program-solution-\file handling\getsputsinfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

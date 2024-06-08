@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714666915 source:d:\aa. uiu cse\c-program-solution-\file handling\footballleaugesystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
