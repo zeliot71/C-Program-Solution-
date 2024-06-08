@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715666043 source:d:\aa. uiu cse\c-program-solution-\08.string\15.reversewordfromstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
